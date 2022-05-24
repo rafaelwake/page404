@@ -1,9 +1,9 @@
-/*Define text type*/
+/*Text type*/
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
 
 html, body { font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 100%; width: 100%; height: 100%; }
 
-/*Define text*/
+/*Define specs text*/
 h2 {font-size: 0.8em; font-weight: 700; padding: 0.1em;}
 h1 {font-size: 1.5em; font-weight: 700; padding: 0.1em;}
 p {font-size: 0.6em; font-weight: 700; padding: 1.8em;}
